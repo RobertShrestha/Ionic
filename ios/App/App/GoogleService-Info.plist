@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>346043519090-ft7va99r4d9fea9k1nvg5pfi68gcqvnu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.346043519090-ft7va99r4d9fea9k1nvg5pfi68gcqvnu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDl8HRqXQ6Q5jbzJjbQamvVRo_lluSFTXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>346043519090</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.ionic.mycapacitorchallenge</string>
+	<key>PROJECT_ID</key>
+	<string>testproject-c9790</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testproject-c9790.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:346043519090:ios:a9279b2f47aae8f47672eb</string>
+	<key>DATABASE_URL</key>
+	<string>https://testproject-c9790.firebaseio.com</string>
+</dict>
+</plist>
